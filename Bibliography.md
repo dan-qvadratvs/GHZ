@@ -20,7 +20,7 @@ Berkovitz, Joseph, "Action at a Distance in Quantum Mechanics", The Stanford Enc
 
 "Quantum Mysteries Revisited" by David Mermin (1990)
 
-"Modern Quantm Mechanics" by JJ Sakurai (1985)
+"Modern Quantum Mechanics" by JJ Sakurai (1985)
 
 https://spookyactionbook.com/2013/10/07/does-some-deeper-level-of-physics-underlie-quantum-mechanics-an-interview-with-nobelist-gerard-t-hooft/
 
